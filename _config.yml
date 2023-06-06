@@ -12,7 +12,6 @@ encoding: UTF-8
 
 domain: hdevoinnelson.github.io
 url: https://hdevoinnelson.github.io
-baseurl: /dssf-syll
 
 exclude:
   - README.md
