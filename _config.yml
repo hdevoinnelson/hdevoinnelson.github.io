@@ -3,21 +3,3 @@ theme: jekyll-theme-minimal
 title: Hilde Nelson
 
 description: Personal website
-
-author: Hilde Nelson
-
-markdown: kramdown
-
-encoding: UTF-8
-
-domain: hdevoinnelson.github.io
-url: https://hdevoinnelson.github.io
-
-exclude:
-  - README.md
-  - LICENSE
-  - scraps.md
-
-collections:
-  weeks:
-    output: true
